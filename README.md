@@ -2,7 +2,7 @@
 
 ## Overview 
 
-The purpose of this analysis was to use our knowledge of PySpark and Google Colab Notebooks along with SQL to extract data from a website, put into a dataframe and then upload that data in SQL through AWS. 
+Use knowledge of PySpark and Google Colab Notebooks along with SQL to extract data from a website, put into a dataframe and then upload that data in SQL through AWS. 
 
 ## Results 
 
